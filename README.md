@@ -1,10 +1,11 @@
-### Hi there 👋, Tanishka Kumari
-#### Design and Development
 ![Design and Development](https://github.com/TanishkaKumari/TanishkaKumari/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner%20(1).png)
-
+# Hi there 👋, Tanishka Kumari
 I'm Tanishka from India currently pursuing Computer Science Engineering in NIT Srinagar. I really enjoy learning languages and frameworks like Python and Django, as well as work in Artificial Intelligence and Machine Learning projects. I also enjoy wireframing, ui, ux, and design in general.
 
-Skills: Python/ C/C++/ HTML / CSS
+## Skills and Experience
+🐍 Python
+📄 C and C++
+💻 HTML and CSS
 
 - 🔭 I’m currently working on this my building my own brand. 
 
