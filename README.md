@@ -1,6 +1,6 @@
 ### Hi there 👋, Tanishka Kumari
 #### Design and Development
-![Design and Development](https://www.canva.com/design/DAEq1JuRLK0/K7U_kiGofeUBfP1kUnYUVQ/view?utm_content=DAEq1JuRLK0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Design and Development](https://github.com/TanishkaKumari/TanishkaKumari/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner%20(1).png)
 
 I'm Tanishka from India currently pursuing Computer Science Engineering in NIT Srinagar. I really enjoy learning languages and frameworks like Python and Django, as well as work in Artificial Intelligence and Machine Learning projects. I also enjoy wireframing, ui, ux, and design in general.
 
