@@ -1,6 +1,7 @@
 ![Design and Development](https://github.com/TanishkaKumari/TanishkaKumari/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner%20(1).png)
+
 # Hi there 👋, I'm Tanishka Kumari
-<img src="https://github.com/TanishkaKumari/TanishkaKumari/blob/main/undraw_dev_focus_re_6iwt.svg" align="right" height=500 width=500>
+<img src="https://github.com/TanishkaKumari/TanishkaKumari/blob/main/undraw_dev_focus_re_6iwt.svg" align="right" height=200 width=200>
 I'm Tanishka from India currently pursuing Computer Science Engineering in NIT Srinagar.
 I really enjoy learning languages and frameworks like Python and Django, as well as work 
 in Artificial Intelligence and Machine Learning projects. I also enjoy wireframing, ui, ux,
