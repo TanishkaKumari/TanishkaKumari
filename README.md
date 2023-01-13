@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/TanishkaKumari/TanishkaKumari/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner%20(1).png)
+![Design and Development](https://github.com/TanishkaKumari/TanishkaKumari/blob/main/banner.png)
 
 Hi 👋 My name is Tanishka Kumari
 ================================
