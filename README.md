@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/TanishkaKumari/TanishkaKumari/blob/main/banner.png)
+![Design and Development](https://github.com/TanishkaKumari/TanishkaKumari/blob/main/future.png)
 
 Hi 👋 My name is Tanishka Kumari
 ================================
