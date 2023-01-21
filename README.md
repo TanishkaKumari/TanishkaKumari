@@ -5,7 +5,7 @@ Hi 👋 My name is Tanishka Kumari
 
 Web Developer and AI & ML Enthusiast
 ------------------------------------
-<img src="https://github.com/TanishkaKumari/TanishkaKumari/blob/main/undraw_dev_focus_re_6iwt.svg" align="right" height=400 width=300>
+<img src="https://github.com/TanishkaKumari/TanishkaKumari/blob/main/pic.svg" align="right" height=500 width=400>
 I'm currently pursuing Computer Science Engineering in NIT Srinagar. I really enjoy learning languages and frameworks like Python and Django, as well as work on Artificial Intelligence and Machine Learning projects. I also enjoy wireframing, ui, ux, and design in general.
 
 * 🌍  I'm based in India
